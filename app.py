@@ -1,5 +1,5 @@
 import streamlit as st
-st.title('campusx')
+st.title('Campusx platform')
 col1,col2=st.columns(2)
 
 with col1:
