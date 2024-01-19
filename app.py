@@ -14,4 +14,6 @@ st.sidebar.title("Menu")
 st.sidebar.markdown("""
 -HOME
 -MENU                    
+-CAREER
+-LOGIN
 """)
