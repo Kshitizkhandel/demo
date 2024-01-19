@@ -15,10 +15,12 @@ st.sidebar.markdown("""
 -HOME
 -MENU                    
 -CAREER
+-OPPORTUNITIES                    
 -LOGIN
 """)
 option=st.sidebar.selectbox("Select one",["teacher","student"])
 btn=st.sidebar.button("Select")
 if btn:
     st.title("Hello" + option)
+
 
