@@ -17,3 +17,4 @@ st.sidebar.markdown("""
 -CAREER
 -LOGIN
 """)
+st.sidebar.selectbox("Select one",["teacher","student"])
