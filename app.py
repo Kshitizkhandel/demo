@@ -10,3 +10,8 @@ st.header('Courses')
 st.subheader('DSMP')
 st.subheader('ML')  
 st.subheader('DSA')  
+st.sidebar.title("Menu")
+st.sidebar.markdown("""
+-HOME
+-MENU                    
+""")
