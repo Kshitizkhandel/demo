@@ -8,4 +8,5 @@ with col2:
     st.header('Campusx is an online learning platform')    
 st.header('Courses')
 st.subheader('DSMP')
-st.subheader('ML')    
+st.subheader('ML')  
+st.subheader('DSA')  
